@@ -152,12 +152,13 @@ ul li a:hover {
 
 /*-----Customers-block-----*/
 
-.section-customers__item {
-    height: 145px;
+.section-customers__items {
+    height: 29px;
+    width: 888px;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 888px;
+    margin: 58px auto;
 }
 
 /* -----Section-plan----- */
