@@ -225,8 +225,6 @@ ul li a:hover {
     background-image: url("../images/features-clouds.svg");
     background-repeat: repeat;
     background-position: center;
-    width: 1200px;
-    margin: 0 auto;
     margin-top: 171px;
 }
 .title-block__subtitle {
