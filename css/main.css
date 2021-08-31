@@ -97,7 +97,7 @@ ul li a:hover {
 /*-----Section-main-----*/
 
 .main-wrapper {
-    background-image: url(/images/main-bg.svg);
+    background-image: url("images/main-bg.svg");
     background-position: cover;
     background-repeat: no-repeat;
     display: flex;
@@ -222,7 +222,7 @@ ul li a:hover {
 /* -----Section-features----- */
 
 .section-features__wrapper {
-    background-image: url(/images/features-clouds.svg);
+    background-image: url("images/features-clouds.svg");
     background-repeat: repeat;
     background-position: center;
     width: 1200px;
@@ -795,7 +795,7 @@ ul li a:hover {
 /* -----Section-get-started----- */
 
 .section-get-started__wrapper {
-    background-image: url(/images/content.svg);
+    background-image: url("images/content.svg");
     background-position: cover;
     background-repeat: no-repeat;
     width: 1440px;
