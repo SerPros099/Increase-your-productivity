@@ -1214,7 +1214,7 @@ ul li a:hover {
     /* -----Section-blog----- */
 
     .blog__arrows {
-        left: 0;
+        left: 10px;
         top: 540px;
         width: 280px;
     }
