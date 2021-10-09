@@ -1042,8 +1042,11 @@ ul li a:hover {
     .burger-menu-label {
         display: block;
         position: absolute;
-        right: 20px;
+        width: 40px;
+        height: 40px;
         opacity: 0;
+        top: 30px;
+        left: 420px;
     }
     #burgerOpen {
         display: none;
@@ -1073,7 +1076,7 @@ ul li a:hover {
         z-index: 2;
         display: none;
         position: absolute;
-        right: 0px;
+        left: 0px;
         top: 80px;
         width: 480px;
         height: 200px;
