@@ -1036,7 +1036,7 @@ ul li a:hover {
     }
     .header__btn {
         font-size: 10px;
-        width: 90px;
+        max-width: 90px;
         height: 35px;
     }
     .burger-menu__input {
@@ -1045,7 +1045,7 @@ ul li a:hover {
     .burger-menu-label {
         display: block;
         position: absolute;
-        width: 40px;
+        max-width: 40px;
         height: 40px;
         opacity: 0;
         top: 30px;
@@ -1081,7 +1081,7 @@ ul li a:hover {
         position: absolute;
         left: 0px;
         top: 80px;
-        width: 480px;
+        max-width: 480px;
         height: 200px;
         background-color: #83abfc;
         border-radius: 10px 10px 10px 10px;
@@ -1100,7 +1100,7 @@ ul li a:hover {
     /* -----Section-main----- */
 
     .section-main {
-        width: 480px;
+        max-width: 480px;
     }    
 
     .main-content__subtitle {
@@ -1124,7 +1124,7 @@ ul li a:hover {
     /*-----Customers-block-----*/
 
     .section-customers__items {
-        width: 460px;
+        max-width: 460px;
         flex-wrap: wrap;
         justify-content: space-around;
         margin: 25px auto;
@@ -1136,12 +1136,12 @@ ul li a:hover {
     /*-----Section-plan-----*/
 
     .section-plan__wrapper {
-        width: 480px;
+        max-width: 480px;
         height: 700px;
         display: block;
     }
     .section-plan__info-block {
-        width: 400px;
+        max-width: 400px;
         margin: 0 auto;
         margin-top: 50px;
         text-align: center;
@@ -1173,7 +1173,7 @@ ul li a:hover {
         margin-bottom: 30px;
     }
     .features-block {
-        width: 350px;
+        max-width: 350px;
         height: auto;
         flex-wrap: wrap;   
     }
@@ -1192,21 +1192,21 @@ ul li a:hover {
 
     /* -----Section-stats----- */
     .section-stats__wrapper {
-        width: 480px;
+        max-width: 480px;
         margin-top: 50px;
     }
     .left-stats__wrapper {
-        width: 50%;
+        max-width: 50%;
     }
     .left-stats {
-        width: 200px;
+        max-width: 200px;
         margin: 66px 20px 0px 0px;
     }
     .right-stats__wrapper {
-        width: 50%;
+        max-width: 50%;
     }
     .right-stats {
-        width: 200px;
+        max-width: 200px;
         margin: 66px 0px 0px 20px;
     }
 
@@ -1217,7 +1217,7 @@ ul li a:hover {
     .blog__arrows {
         left: 0;
         top: 420px;
-        width: 450px;
+        max-width: 450px;
     }
     .blog-block__subtitle {
         padding-top: 30px;
@@ -1227,11 +1227,11 @@ ul li a:hover {
     }
     .blog-slider {
         margin-top: 30px;
-        width: 480px;
+        max-width: 480px;
         height: auto;
     }
     .blog-slider__slide1 {
-        width: 480px;
+        max-width: 480px;
         flex-direction: column;
     }
     .slide1__text-block {
@@ -1263,7 +1263,7 @@ ul li a:hover {
     .section-quotes__text-block {
         margin: 0 auto;
         margin-top: 40px;
-        width: 240px;
+        max-width: 240px;
         text-align: center;
     }
     .text-block__title {
@@ -1279,7 +1279,7 @@ ul li a:hover {
         top: 160px;
     }
     .slide-1__text-area {
-        width: 300px;
+        max-width: 300px;
         height: 150px;
         margin: 0 auto;
         margin-top: 50px;
@@ -1296,7 +1296,7 @@ ul li a:hover {
         margin-left: -250px;
     }
     .slide-2__text-area {
-        width: 300px;
+        max-width: 300px;
         height: 150px;
         margin: 0 auto;
         margin-top: 50px;
@@ -1326,7 +1326,7 @@ ul li a:hover {
 
     .questions-block {
         margin: 30px 0px 30px 0px;
-        width: 480px;
+        max-width: 480px;
     }
     .label {
         font-size: 13px;
@@ -1340,7 +1340,7 @@ ul li a:hover {
     }
     .question__text-block {
         margin-left: 50px;
-        width: 400px;
+        max-width: 400px;
     }
     .question__text {
         font-size: 13px;
@@ -1367,7 +1367,7 @@ ul li a:hover {
     }
     .get-started__text {
         font-size: 12px;
-        width: 300px;
+        max-width: 300px;
         margin: 0 auto;
         margin-top: 20px;
     }
@@ -1397,14 +1397,14 @@ ul li a:hover {
     }
     .right-side__button {
         padding: 0px;
-        width: 100px;
+        max-width: 100px;
         height: 59px;
     }
 
     /* -----Footer----- */
 
     .footer {
-        width: 480px;
+        max-width: 480px;
     }
     .footer__nav ul {
         display: none;
