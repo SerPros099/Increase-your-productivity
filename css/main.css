@@ -1017,7 +1017,7 @@ ul li a:hover {
         overflow-x: hidden;
     }
     .wrapper {
-        width: 480px;
+        max-width: 480px;
     }
 
     /* -----Header----- */
