@@ -1081,7 +1081,7 @@ ul li a:hover {
         position: absolute;
         left: 0px;
         top: 80px;
-        max-width: 480px;
+        width: 100%;
         height: 200px;
         background-color: #83abfc;
         border-radius: 10px 10px 10px 10px;
@@ -1397,7 +1397,7 @@ ul li a:hover {
     }
     .right-side__button {
         padding: 0px;
-        max-width: 100px;
+        width: 100px;
         height: 59px;
     }
 
